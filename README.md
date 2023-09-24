@@ -5,7 +5,7 @@
 
 
 <div id="header" align="center">
-  <img src="http://image.noelshack.com/fichiers/2023/08/4/1677148794-gui.png">
+  <img src="http://image.noelshack.com/fichiers/2023/08/4/1677148794-gui.png" style="pointer-events: none;">
 </div>
 
 # Introduction

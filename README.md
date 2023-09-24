@@ -16,7 +16,7 @@ This is a Cryptographic tool built with PyQt5 and the cryptography library in Py
  
 1. Clone the repository or download the zip file.
 ```bash
-git clone https://github.com/busirus/PyQt5-Cryptographic-Tool.git
+git clone https://github.com/zyguel/Python-Based-Encryption-Decryption-Tool.git
 ```
 2. Make sure that Python 3.x is installed.
 

@@ -5,6 +5,7 @@
 
 
 <div id="header" align="center">
+  <img>
 </div>
 
 # Introduction
